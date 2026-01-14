@@ -45,7 +45,7 @@ A passionate Data Analytics student with strong technical skills in Python, SQL,
 ## 🎓 Education
 **VIT Bhopal University**  
 *BTech Computer Science Engineering with specialization in E-Commerce Technology*  
-CGPA: 8.85/10 | 2022-2026
+CGPA: 8.89/10 | 2022-2026
 
 **Dr. Virendra Swarup Education Center Panki**  
 CBSE Class XII: 89% | CBSE Class X: 95%
