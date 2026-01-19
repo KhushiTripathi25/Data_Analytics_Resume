@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio & Resume
+# 📊 Data Analytics Resume
 
 **Data Analyst | Python | SQL | Power BI | Tableau | Machine Learning**
 
